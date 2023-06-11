@@ -1,13 +1,13 @@
-# Install_breedwed_Xiaomi_r3g
-CÁC BƯỚC CƠ BẢN ĐỂ CÀI ĐẶT BOOTLOADER VÀ CẬP NHẬT FIRMWARE PADAVAN CHO ROUTER XIAOMI GEN 3G
+# CÀI ĐẶT BOOTLOADER BREEDWED VÀ CẬP NHẬT FIRMWARE PADAVAN CHO ROUTER XIAOMI GEN 3G
+CÁC BƯỚC CƠ BẢN ĐỂ CÀI ĐẶT BOOTLOADER BREEDWED VÀ CẬP NHẬT FIRMWARE PADAVAN CHO ROUTER XIAOMI GEN 3G
 
 Thời gian cập nhật bài viết: 22:27
 Chủ Nhật, 11 tháng 6, 2023 (GMT+7)
 ![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/b8e09202-ea89-45c8-8605-feaf60f4733c)
 
-This guide will cover how to flash
+Trong bài viết này mình sẽ hướng dẫn các cách để cài đặt Bootloader Breedwed và cập nhật Firmware Padavan ngôn ngữ Tiếng Anh cho 
 
-Xiaomi Mi Wifi Router 3G with English Padavan Firmware
+Xiaomi Mi Wifi Router 3G
 
 Download the latest Xiaomi MI Wifi 3G Developer Firmware
 Current version http://bigota.miwifi.com/xiaoqiang/rom/r3g/miwifi_r3g_firmware_12f97_2.25.124.bin
