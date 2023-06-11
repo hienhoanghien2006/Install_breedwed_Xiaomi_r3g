@@ -1,7 +1,9 @@
 # Install_breedwed_Xiaomi_r3g
+CÁC BƯỚC CƠ BẢN ĐỂ CÀI ĐẶT BOOTLOADER VÀ CẬP NHẬT FIRMWARE PADAVAN CHO ROUTER XIAOMI GEN 3G
 
-#1Apr 22, 2019 Last edited: Apr 22, 2019
-[​IMG]
+Thời gian cập nhật bài viết: 22:27
+Chủ Nhật, 11 tháng 6, 2023 (GMT+7)
+![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/b8e09202-ea89-45c8-8605-feaf60f4733c)
 
 This guide will cover how to flash
 
