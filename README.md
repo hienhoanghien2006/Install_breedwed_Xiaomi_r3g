@@ -59,8 +59,9 @@ Connect to the router 192.168.31.1
 
 
 Write mount
-mtd write /extdisks/sda1/breed-mt7621-xiaomi-r3g.bin Bootloader
-
+```
+ mtd write /extdisks/sda1/breed-mt7621-xiaomi-r3g.bin Bootloader
+```
 Disconnect router from power.
 
 Connect WAN port to LAN on PC
