@@ -5,19 +5,19 @@ Thời gian cập nhật bài viết: 22:27
 Chủ Nhật, 11 tháng 6, 2023 (GMT+7)
 ![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/b8e09202-ea89-45c8-8605-feaf60f4733c)
 
-Trong bài viết này mình sẽ hướng dẫn các cách để cài đặt Bootloader Breedwed và cập nhật Firmware Padavan ngôn ngữ Tiếng Anh cho 
+Trong bài viết này mình sẽ hướng dẫn các cách để cài đặt Bootloader Breedwed và cập nhật Firmware Padavan ngôn ngữ Tiếng Anh cho Router Xiaomi Mi Wifi Router 3G
 
-Xiaomi Mi Wifi Router 3G
+1. ĐẦu tiên tải xuống  Firmware Xiaomi MI Wifi 3G danh cho nhà phát trển (Developer)
+tại đây:
+http://bigota.miwifi.com/xiaoqiang/rom/r3g/miwifi_r3g_firmware_12f97_2.25.124.bin
 
-Download the latest Xiaomi MI Wifi 3G Developer Firmware
-Current version http://bigota.miwifi.com/xiaoqiang/rom/r3g/miwifi_r3g_firmware_12f97_2.25.124.bin
+Sau khi Firmware được tải thành công tiến hành tiếp các bước như trong ảnh đưới đây để Flash Firmware developer.
 
-Flash developer firmware.
+![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/224c08ad-36bd-4769-8a71-f434e555337f)
 
-[​IMG]
-[​IMG]
+![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/8ada752d-e492-4a5a-89f5-2c605083607e)
 
-[​IMG]
+![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/6767091c-c7a1-4080-bcb1-e35c42759e35)
 
 Connect to router, default password 123456789
 
