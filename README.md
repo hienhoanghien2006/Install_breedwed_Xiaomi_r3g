@@ -29,7 +29,7 @@ On PC go to https://d.miwifi.com/rom/ssh
 
 Connect with your Mi account
 
-[​IMG]
+![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/aafde009-de87-44fb-ba6a-67065d308d8a)
 
 Where you will find SSH login username and password.
 
@@ -57,8 +57,7 @@ https://www.putty.org
 
 Connect to the router 192.168.31.1
 
-[​IMG]
-
+![33791961228_7d94e6f437_o](https://github.com/hienhoanghien2006/my_storage/assets/111626123/56380ebd-1a9c-4bf8-a72a-e8d83b89cace)
 
 Write mount
 ```
