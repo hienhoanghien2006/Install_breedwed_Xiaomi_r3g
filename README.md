@@ -19,60 +19,56 @@ Sau khi Firmware được tải thành công tiến hành tiếp các bước nh
 
 ![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/6767091c-c7a1-4080-bcb1-e35c42759e35)
 
-Connect to router, default password 123456789
+Kết nối với bộ định tuyến, mật khẩu mặc định 123456789
 
-Connect to router wifi with your mobile phone.
-Download Mi Wi-fi app.
-Connect router to your Mi account.
+Kết nối với bộ định tuyến wifi bằng điện thoại di động của bạn.
+Tải xuống ứng dụng Mi Wi-fi.
+Kết nối bộ định tuyến với tài khoản Mi của bạn.
 
-On PC go to https://d.miwifi.com/rom/ssh
+Trên PC, hãy truy cập https://d.miwifi.com/rom/ssh 
 
-Connect with your Mi account
+Kết nối với tài khoản Mi đã được kêt nối với bộ định tuyến qua app MI WIFI
 
 ![image](https://github.com/hienhoanghien2006/my_storage/assets/111626123/aafde009-de87-44fb-ba6a-67065d308d8a)
 
-Where you will find SSH login username and password.
+Tại đây bạn sẽ tìm thấy tên người dùng và mật khẩu đăng nhập SSH. Và tiến hành tải file ssh về máy tính của bạn.
 
-And SSH download. Click button, fix address with https://
+Sau khi lưu thành công tệp "Miwifi_ssh.bin".
+Kết nối USB với máy tính và định dạng Ổ USB thành FAT32. Sao chép tệp "Miwifi_ssh.bin" đến ổ flash USB FAR32
 
-Save Miwifi_ssh.bin file.
+Tắt nguồn bộ định tuyến của bạn bằng việc nguồn điện.
+Gắn USB với bộ định tuyến thông qua cổng USB phía sau bộ định tuyến.
+Giữ nút đặt lại.Và cắm lại nguồn cho đến khi đèn LED màu cam bắt đầu nhấp nháy, nhả nút đặt lại.
 
-Format USB flash drive to Fat32
+Đợi đèn LED màu xanh sáng liên tục.
 
-Copy Miwifi_ssh.bin file to the flash drive.
+Tải xuống BOOTLOADER BREEDWED breed-mt7621-xiaomi-r3g.bin tại địa chỉ https://breed.hackpascal.net/
 
-Turn off power on your router.
-Stick USB drive.
-Hold reset button.
-And plug power back in till orange LED starts to blink, release reset button.
+Sao chép tệp "breed-mt7621-xiaomi-r3g.bin" đến ổ USB.
 
-Wait blue LED to light solid.
-
-Download breed-mt7621-xiaomi-r3g.bin from https://breed.hackpascal.net/
-
-Copy file to the USB flash drive and plug to router.
-
-Download and open putty
+Tải về phần mềm PUTY và mở nó
 https://www.putty.org
 
-Connect to the router 192.168.31.1
+Kết nối SSH đến router với địa chỉ IP 192.168.31.1 
 
 ![33791961228_7d94e6f437_o](https://github.com/hienhoanghien2006/my_storage/assets/111626123/56380ebd-1a9c-4bf8-a72a-e8d83b89cace)
 
-Write mount
+Dán đoạn code bên dưới vào trình SSH của PUTTY
 ```
  mtd write /extdisks/sda1/breed-mt7621-xiaomi-r3g.bin Bootloader
 ```
-Disconnect router from power.
+Tắt nguồn bộ định tuyến của bạn bằng việc nguồn điện.
 
-Connect WAN port to LAN on PC
+Kết nối Cổng WAN đến cổng LAN Của Máy tính
 
-Hold reset, plug power, wait for LED to flash, release reset
+Nhấn giữ reset, cắm nguồn, đợi LED nháy, nhả reset.
 
-Go 192.168.1.1
+Dùng trình duyệt trên máy tính của bạn truy cập địa chỉ 192.168.1.1
 
 [​IMG]
 
+
+Như vậy đã hoàn thành việc cài đặt BOOTLOADER BREEDWED 
 Choose flash ROM and select file MI-R3G_3.4.3.9L-100[56960f9][12-04-2019_18-08].trx
 
 [​IMG]
