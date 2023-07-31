@@ -42,12 +42,12 @@ Giữ nút đặt lại.Và cắm lại nguồn cho đến khi đèn LED màu ca
 
 Đợi đèn LED màu xanh sáng liên tục.
 
-Tải xuống BOOTLOADER BREEDWED breed-mt7621-xiaomi-r3g.bin tại địa chỉ https://breed.hackpascal.net/
+Tải xuống BOOTLOADER BREEDWED breed-mt7621-xiaomi-r3g.bin tại địa chỉ 
+https://breed.hackpascal.net/
 
 Sao chép tệp "breed-mt7621-xiaomi-r3g.bin" đến ổ USB.
 
-Tải về phần mềm PUTY và mở nó
-https://www.putty.org
+Tải về phần mềm PUTY và mở nó https://www.putty.org
 
 Kết nối SSH đến router với địa chỉ IP 192.168.31.1 
 
@@ -65,10 +65,11 @@ Nhấn giữ reset, cắm nguồn, đợi LED nháy, nhả reset.
 
 Dùng trình duyệt trên máy tính của bạn truy cập địa chỉ 192.168.1.1
 
-[​IMG]
+![image](https://github.com/hienhoanghien2006/my_storage/blob/main/HzoYJSS.png)
 
 
 Như vậy đã hoàn thành việc cài đặt BOOTLOADER BREEDWED 
+
 Choose flash ROM and select file MI-R3G_3.4.3.9L-100[56960f9][12-04-2019_18-08].trx
 
 [​IMG]
